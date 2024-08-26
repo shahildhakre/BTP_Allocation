@@ -21,14 +21,6 @@ Welcome to the Project Allocation System! This web application allows students t
   - Review student applications
   - Select suitable candidates for projects
 
-## Demo
-
-
-
-https://github.com/Krishna-xo18/Project-allocation-system/assets/117559604/7949f882-42b1-41be-9d01-f1e2fe5943c6
-
-
-
 ## Installation
 
 ### Method 1: Using Separate Terminals
